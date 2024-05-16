@@ -44,7 +44,7 @@ const ProtectedPage = ({ children }) => {
         </span>
         <div className="bg-white rounded px-5 py-4 flex gap-3 items-center cursor-pointer ">
           <i className="ri-user-fill" onClick={() => navigate("/profile")}></i>
-          <span className="text-primary text-lg cursor-pointer underline">
+          <span className="text-primary text-lg cursor-pointer underline" onClick={() =>  navigate('/admin')}>
             {user?.firstName}
           </span>
           <i

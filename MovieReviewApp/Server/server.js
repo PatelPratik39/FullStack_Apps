@@ -26,6 +26,8 @@ const PORT = process.env.PORT || 6001;
 
 const path = require("path");
 __dirname = path.resolve();
+
+
 if (process.env.NODE_ENV === "production") {
   app.use(express.static(path.join(__dirname, "/ReelReviewsApp/dist")));
   app.get("*", (req, res) => {
