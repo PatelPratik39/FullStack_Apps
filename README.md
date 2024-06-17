@@ -44,7 +44,7 @@
   - Password change
     <img src="/addAdmin.png" alt= homePage/>
     <img src="/adminAccess2.png" alt= homePage/>
-    <img src="/adminAccess.png" alt= homePage/>
+    <img src="/adminaccess.png" alt= homePage/>
     <img src="/admin1.png" alt= homePage/>
     <img src="/editAdmin.png" alt= homePage/>
 
