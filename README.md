@@ -9,6 +9,7 @@
   - Click on single Movie to see the movie Details
   - Rating and comment for the movies
   - navigate to Artist page throgh movie cast lists
+  <img src="/home1.png" alt= homePage/>
 
 - Artist
 
