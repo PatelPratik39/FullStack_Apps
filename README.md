@@ -21,7 +21,8 @@
   - Delete Artist
   - upload Profile image
   - upload multiple Images and delete
-    <img src="/addArtest.png" alt= homePage/>
+  - 
+    <img src="/addArtiest.png" alt= homePage/>
     <img src="/pagination.png" alt= homePage/>
     <img src="/detail1.png" alt= homePage/>
 
